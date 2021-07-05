@@ -10,7 +10,7 @@ header h1 {
     font-size: 50px;
 }
 
-header h6 a{
+.downloadButton{
     color: aquamarine;
     font-size: 16px;
 }
